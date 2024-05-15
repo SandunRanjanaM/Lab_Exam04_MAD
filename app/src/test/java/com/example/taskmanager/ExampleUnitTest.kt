@@ -1,4 +1,4 @@
-package com.example.lab_exam_04
+package com.example.taskmanager
 
 import org.junit.Test
 
